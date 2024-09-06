@@ -13,7 +13,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-![s6](https://github.com/user-attachments/assets/1179b439-90ed-4d74-bc2f-4c60f42897d3)
+
+![s6](https://github.com/user-attachments/assets/3ada2d98-c41f-4904-8aa8-d3efe4fe3d97)
 
 
 
@@ -196,27 +197,30 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![s1](https://github.com/user-attachments/assets/449f3cc1-40a3-44d7-bd77-01fa8fe69f67)
+![s1](https://github.com/user-attachments/assets/42ac7f4b-d201-42d0-94ee-c97c85faadb2)
+
 
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![s2](https://github.com/user-attachments/assets/a921b3e4-0696-4de2-8d19-4e9cd516ae9d)
+![s2](https://github.com/user-attachments/assets/3901e28b-c628-48e4-9741-4c492621690c)
 
 
 ### Classification Report
-![s3](https://github.com/user-attachments/assets/4e9b4d5e-4055-454b-b2b0-40028d97654d)
+![s3](https://github.com/user-attachments/assets/81f945c3-687e-44dd-9380-bfee7bd5db45)
+
+
 
 
 ### Confusion Matrix
-
-![s4](https://github.com/user-attachments/assets/9a39b5d5-4c19-4085-a8a0-de3aacb6f735)
+![s4](https://github.com/user-attachments/assets/95fd94c6-f8b0-43d4-a4fe-4e01778a2a5b)
 
 
 
 ### New Sample Data Prediction
 
-![s5](https://github.com/user-attachments/assets/0e23215c-bd03-45de-ace8-3556e0dc59a2)
+![s5](https://github.com/user-attachments/assets/89d6395a-ed90-4482-a8eb-393b03882ce2)
+
 
 
 ## RESULT
