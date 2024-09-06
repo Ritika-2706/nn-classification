@@ -203,7 +203,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![s2](https://github.com/user-attachments/assets/3901e28b-c628-48e4-9741-4c492621690c)
+![ss](https://github.com/user-attachments/assets/05bc288c-3cb7-42bb-8217-c00228ee2630)
 
 
 ### Classification Report
