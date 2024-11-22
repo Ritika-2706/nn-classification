@@ -214,7 +214,7 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ### Confusion Matrix
-![s4](https://github.com/user-attachments/assets/95fd94c6-f8b0-43d4-a4fe-4e01778a2a5b)
+<img width="148" alt="dee" src="https://github.com/user-attachments/assets/b4883fe5-fb0d-4138-bfd6-9c63b107d56b">
 
 
 
