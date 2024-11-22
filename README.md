@@ -163,7 +163,7 @@ ai_brain.compile(optimizer='adam',
                  metrics=['accuracy'])
 #early_stop = EarlyStopping(monitor='val_loss', patience=2)
 ai_brain.fit(x=X_train_scaled,y=y_train,
-             epochs=20,batch_size=25,
+             epochs=5,batch_size=25,
              validation_data=(X_test_scaled,y_test),
              )
 metrics = pd.DataFrame(ai_brain.history.history)
@@ -203,7 +203,8 @@ print(le.inverse_transform(x_single_prediction))
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![ss](https://github.com/user-attachments/assets/05bc288c-3cb7-42bb-8217-c00228ee2630)
+![image](https://github.com/user-attachments/assets/659deac3-e278-467f-9255-da16eb7b8a5f)
+
 
 
 ### Classification Report
